@@ -1,0 +1,7 @@
+﻿  Lab01.cpp
+d:\pobrane\lab01\lab01\lab01.cpp(131): warning C4244: 'initializing': conversion from 'float' to 'GLsizei', possible loss of data
+d:\pobrane\lab01\lab01\lab01.cpp(163): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\pobrane\lab01\lab01\lab01.cpp(217): warning C4244: '=': conversion from 'GLsizei' to 'GLfloat', possible loss of data
+d:\pobrane\lab01\lab01\lab01.cpp(224): warning C4244: '=': conversion from 'GLsizei' to 'GLfloat', possible loss of data
+  Lab01.vcxproj -> D:\Pobrane\Lab01\Debug\Lab01.exe
+  Lab01.vcxproj -> D:\Pobrane\Lab01\Debug\Lab01.pdb (Full PDB)
