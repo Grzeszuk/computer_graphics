@@ -265,7 +265,7 @@ void main(int argc, char* argv[])
 	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
 	glutInitWindowSize(800, 600);
-	glutCreateWindow("Zadanie 1 - Moska³a Damian");
+	glutCreateWindow("Mój pierwszy program w GLUT");
 	glutDisplayFunc(RenderScene);
 	glutReshapeFunc(ChangeSize);
 	glutTimerFunc(33, TimerFunction, 1);
