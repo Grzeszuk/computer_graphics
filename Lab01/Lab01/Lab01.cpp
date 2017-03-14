@@ -141,7 +141,7 @@ void RenderScene(void)
 {
 	glClear(GL_COLOR_BUFFER_BIT);
 	glColor3f(1.0f, 0.0f, 0.0f);
-	GLint trialangleAmount = 7;
+	GLint trialangleAmount = 6;
 	GLfloat twicePI = 2.f *3.14f;
 	angle += 0.8f;
 
