@@ -1,0 +1,7 @@
+﻿  Program1-4.cpp
+d:\pobrane\program1-4\program1-4\program1-4.cpp(131): warning C4244: 'initializing': conversion from 'float' to 'GLsizei', possible loss of data
+d:\pobrane\program1-4\program1-4\program1-4.cpp(163): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\pobrane\program1-4\program1-4\program1-4.cpp(217): warning C4244: '=': conversion from 'GLsizei' to 'GLfloat', possible loss of data
+d:\pobrane\program1-4\program1-4\program1-4.cpp(224): warning C4244: '=': conversion from 'GLsizei' to 'GLfloat', possible loss of data
+  Program1-4.vcxproj -> D:\Pobrane\Program1-4\Debug\Program1-4.exe
+  Program1-4.vcxproj -> D:\Pobrane\Program1-4\Debug\Program1-4.pdb (Full PDB)

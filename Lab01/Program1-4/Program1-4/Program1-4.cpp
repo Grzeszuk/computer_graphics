@@ -137,11 +137,11 @@ GLfloat windowWidth;
 GLfloat windowHeight;
 GLfloat angle = 0.0f;
 
-void RenderScene(void) 
+void RenderScene(void)
 {
 	glClear(GL_COLOR_BUFFER_BIT);
 	glColor3f(1.0f, 0.0f, 0.0f);
-	GLint trialangleAmount = 7;
+	GLint trialangleAmount = 6;
 	GLfloat twicePI = 2.f *3.14f;
 	angle += 0.8f;
 
@@ -212,7 +212,7 @@ void TimerFunction(int value)
 		y1 = windowHeight - rsize - 1;
 	}
 
-	if (x1 < rsize) 
+	if (x1 < rsize)
 	{
 		x1 = rsize;
 		xsteptemp = 0;
@@ -228,7 +228,7 @@ void TimerFunction(int value)
 	glutTimerFunc(33, TimerFunction, 1);
 }
 
-void SetupRC(void) 
+void SetupRC(void)
 {
 	glClearColor(0.60f, 0.4f, 0.12f, 1.0f);
 }
@@ -260,7 +260,7 @@ void ChangeSize(GLsizei w, GLsizei h)
 	glLoadIdentity();
 }
 
-void main(int argc, char* argv[]) 
+void main(int argc, char* argv[])
 {
 	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
