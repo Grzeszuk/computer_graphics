@@ -1,0 +1,7 @@
+﻿  Program2.cpp
+c:\users\49812\downloads\program2\program2\program2.cpp(147): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\49812\downloads\program2\program2\program2.cpp(148): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\49812\downloads\program2\program2\program2.cpp(188): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\49812\downloads\program2\program2\program2.cpp(190): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Program2.vcxproj -> C:\Users\49812\Downloads\Program2\Debug\Program2.exe
+  Program2.vcxproj -> C:\Users\49812\Downloads\Program2\Debug\Program2.pdb (Full PDB)
