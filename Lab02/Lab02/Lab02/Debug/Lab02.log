@@ -1,5 +1,0 @@
-﻿  Lab02.cpp
-c:\users\49812\downloads\lab02\lab02\lab02.cpp(36): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\49812\downloads\lab02\lab02\lab02.cpp(37): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-  Lab02.vcxproj -> C:\Users\49812\Downloads\Lab02\Debug\Lab02.exe
-  Lab02.vcxproj -> C:\Users\49812\Downloads\Lab02\Debug\Lab02.pdb (Full PDB)

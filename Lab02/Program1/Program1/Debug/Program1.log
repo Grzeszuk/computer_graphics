@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Program1.cpp
+d:\dokumenty\ath - informatyka - grupa 3\semestr iv\grafika komputerowa (v. martsenyuk)\lab02\program1\program1\program1.cpp(28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dokumenty\ath - informatyka - grupa 3\semestr iv\grafika komputerowa (v. martsenyuk)\lab02\program1\program1\program1.cpp(29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  Program1.vcxproj -> D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Grafika Komputerowa (V. Martsenyuk)\Lab02\Program1\Debug\Program1.exe
+  Program1.vcxproj -> D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Grafika Komputerowa (V. Martsenyuk)\Lab02\Program1\Debug\Program1.pdb (Full PDB)
